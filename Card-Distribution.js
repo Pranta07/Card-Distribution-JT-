@@ -42,7 +42,7 @@ const cardDistribution = (users) => {
     return data;
 };
 
-const users = [
+/* const users = [
     {
         name: "Pranta",
         birthYear: 1998,
@@ -78,4 +78,4 @@ const users = [
 ];
 
 const data = cardDistribution(users);
-console.log(data);
+console.log(data); */
